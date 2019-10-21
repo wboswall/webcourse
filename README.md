@@ -1,2 +1,0 @@
-# webcourse
-html and css

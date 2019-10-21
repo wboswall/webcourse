@@ -1,0 +1,38 @@
+For part 1 of the assignment, I did get along just fine once I started the assignment and took my time building the index.html page and other subsequent html pages.  Also took time in testing them after to make sure that each page and it's external links rendered perfectly as expected.  
+I also decided to further practice on what I learned in lesson 1 by creating my own website (http://wboswall.x10.bz/) through x10 hosting platform  that I found through lesson 1 videos.  The x10 hosting platform was transparent and really easy to set up a website unlike the other ones on the handout that didn't directly show on how to obtain a free hosting domain instead they were looking to sell a domain to me.  
+After I hand some fun updating my website and adding my polished lesson 1 and exercise 1 web pages and posting links on the main page.  
+It's amazing and rewarding in seeing a website that I created being live or local and is rendering correctly in the browser.   
+
+
+
+Answers to Exercise 1 part 2
+Website URL used for part 2: https://www.timothyscharlottetown.com
+
+I used the view source page to answer the following questions.  
+
+1. What's one example of heading text on this Web site? (Hint: heading text refers to heading tags like <h1> <h2> <h6>, not to the <head> section of the document)
+
+One example of heading text is: <h1 style="font-size:30px;" class="font_0"><span class="color_8"><span style="font-size:30px;">Timothy's - The Best Coffee &amp; Cafe In Charlottetown PEI</span></span></h1>
+
+2. What's one example of paragraph text on this Web site?
+
+One example of paragraph text on timothyscharlottetown's web site is: 
+
+<p style="text-align:center" id="DrpDwnMn0-fg20label" class="ddm1repeaterButtonlabel">Home</p>
+
+3. What's one example of an ordered or unordered list?
+
+An example of an unordered list 
+<ul style="visibility:hidden" id="DrpDwnMn0-fg2moreContainer" class="ddm1moreContainer"></ul>
+
+4. What are three examples of anchors link on this Web site?
+Three examples of anchor links on this web site are:
+	i) <a role="button" tabindex="0" aria-haspopup="false" data-listposition="center" href="https://www.timothyscharlottetown.com" target="_self" id="DrpDwnMn0-fg20linkElement" class="ddm1repeaterButtonlinkElement">
+	
+	ii) <a href="http://www.facebook.com/timothyscharlottetown" target="_blank" data-content="http://www.facebook.com/timothyscharlottetown" data-type="external" id="LnkBr0-1n60imagelink" class="lb1imageItemlink">
+	
+	iii) <a role="button" tabindex="0" aria-haspopup="false" data-listposition="center" href="https://www.timothyscharlottetown.com/rewards" target="_self" id="DrpDwnMn0-fg22linkElement" class="ddm1repeaterButtonlinkElement">
+
+
+5. Are any images on the page also clickable links?
+There is only one image on the home page (index.html) that has a clickable link which is the Timothy's Cafe Logo in the upper left-hand corner which serves as a way for people to return back to the home page if needed.  
