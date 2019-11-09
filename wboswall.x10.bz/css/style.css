@@ -1,0 +1,49 @@
+/*CSS*/
+body {
+	background-color: #948E8E;
+}
+h1 {
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 23px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; letter-spacing: 3px; color: #000;
+}
+h2 {
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; letter-spacing: 2px; color: #000;
+}
+p {
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; color: #000;
+}
+ol {
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 600; line-height: 17px; color: #000; 
+}
+ul {
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 600; line-height: 17px; color: #000; 
+}
+ul a{
+	text-decoration: none;
+}
+a {
+	text-decoration: none; color# 690;
+}
+a:hover {
+	color: #CBE86B;
+}
+#container {
+	width: 960px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #FFF;
+}
+#header {
+	background-color: #FFF;
+}
+#main	{
+	background-color: #FFF;
+}
+#menu {
+	background-color: #FFF;
+}
+#menu ul{
+	list-style-type:none;
+}
+#footer {
+	background-color: #FFF; text-align: center;
+}
