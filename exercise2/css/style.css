@@ -21,7 +21,8 @@ ul a{
 	text-decoration: none;
 }
 a {
-	text-decoration: none; color# 690;
+	text-decoration: none; 
+	color: #690;
 }
 a:hover {
 	color: #CBE86B;
