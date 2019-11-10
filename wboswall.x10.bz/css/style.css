@@ -3,19 +3,52 @@ body {
 	background-color: #948E8E;
 }
 h1 {
-	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 23px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; letter-spacing: 3px; color: #000;
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 23px; 
+	font-style: normal; 
+	font-variant: normal; 
+	letter-spacing: 3px; 
+	font-weight: 600; 
+	line-height: 34.5px; 
+	color: #000; 
+	margin:
 }
 h2 {
-	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; letter-spacing: 2px; color: #000;
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 23px; 
+	font-style: normal; 
+	font-variant: normal; 
+	letter-spacing: 2px; 
+	font-weight: 700; 
+	line-height: 30px; 
+	color: #000;
 }
 p {
-	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; color: #000;
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 14px; 
+	font-style: italic; 
+	font-variant: normal; 
+	font-weight: 800; 
+	line-height: 21px; 
+	color: #000;
 }
-ol {
-	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 600; line-height: 17px; color: #000; 
+ol{
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 12px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 600; 
+	line-height: 17px; 
+	color: #000; 
 }
 ul {
-	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 600; line-height: 17px; color: #000; 
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 12px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 600; 
+	line-height: 17px; 
+	color: #000; 
 }
 ul a{
 	text-decoration: none;
