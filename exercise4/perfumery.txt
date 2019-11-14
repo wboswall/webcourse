@@ -1,4 +1,26 @@
-The Art of Perfumery
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<meta charset="utf-8">
+		<title>Untitled Document</title>
+		<style type="text/css">
+		#frame {
+		width: 800px;
+		margin: 0 auto;
+		}
+		</style>
+	</head>
+	<body>
+		<header>
+			"The Art of Perfumery," by G.W. Septimus Piesse
+
+author of The Odors of Flowers
+			<img src="perfume.png" alt="a noblewoman sits smelling a rose">
+		</header>
+		<div id="frame">
+			
+			.Page content goes here.
+			The Art of Perfumery
 
 and method of obtaining the odorors of plants
 
@@ -93,3 +115,7 @@ Rub the honey and borax well together in a mortar, then gradually add the spirit
 [video]
 
 Text and image courtesy Project Gutenberg
+
+		</div>
+	</body>
+</html>
