@@ -1,64 +1,77 @@
 /*Books n' Beans CSS Created Nov 9 2019*/
 body {
 	background-color: #A18E8E;
+	padding-bottom: 20px;
 }
 h1 {
 	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
-	font-size: 23px; 
+	font-size: 35px; 
 	font-style: normal; 
 	font-variant: normal; 
 	letter-spacing: 3px; 
 	font-weight: 600; 
 	line-height: 34.5px; 
-	color: #000; 
+	color: #000;
+	padding: 20px;	
 }
 h2 {
 	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
-	font-size: 23px; 
+	font-size: 30px; 
 	font-style: normal; 
 	font-variant: normal; 
 	letter-spacing: 2px; 
 	font-weight: 700; 
 	line-height: 30px; 
 	color: #000;
+	padding: 20px;
 }
 p {
 	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
-	font-size: 14px; 
+	font-size: 20px; 
 	font-style: italic; 
 	font-variant: normal; 
 	font-weight: 800; 
 	line-height: 21px; 
 	color: #000;
+	padding: 20px;
 }
 ol{
 	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
-	font-size: 12px; 
+	font-size: 20px; 
 	font-style: normal; 
 	font-variant: normal; 
 	font-weight: 600; 
 	line-height: 17px; 
-	color: #000; 
-}
-ul {
-	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
-	font-size: 12px; 
-	font-style: normal; 
-	font-variant: normal; 
-	font-weight: 600; 
-	line-height: 17px; 
-	color: #000; 
-}
-ul a{
-	text-decoration: none;
-	color: #bde36f;
+	color: #000;
+	padding-top:20px;
+	padding-bottom:20px;	
 }
 ol a {
 		color: #95bf41;
 }
+ol li {
+	padding: 10px;
+}
+ul {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 20px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 600; 
+	line-height: 17px; 
+	color: #000; 
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+ul a{
+	text-decoration: none;
+	color: #bde36f;
+}
 a {
 	text-decoration: none; 
 	color: #690;
+	font-size: 20px;
 }
 a:hover {
 	color: #CBE86B;
@@ -70,16 +83,25 @@ a:hover {
 }
 #header {
 	background-color: #553830;
+	padding: 20px;
 }
 #main	{
 	background-color: #948383;
+	padding: 20px;
 }
 #menu {
 	background-color: #83B39D;
+	padding: 20px;
 }
 #menu ul{
 	list-style-type:none;
 }
+#menu ul li {
+	padding: 10px;
+}
 #footer {
-	background-color: #E3CFB6; text-align: center;
+	background-color: #E3CFB6; 
+	text-align: center;
+	padding-top:20px;
+	padding-bottom:60px;
 }
