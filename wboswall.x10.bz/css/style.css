@@ -29,7 +29,7 @@ p {
 	font-style: italic; 
 	font-variant: normal; 
 	font-weight: 800; 
-	line-height: 2.0em; 
+	line-height: 3.0em; 
 	color: #000;
 }
 ol{
@@ -37,12 +37,11 @@ ol{
 	font-size: 18px; 
 	font-style: normal; 
 	font-variant: normal; 
-	font-weight: 600; 
-	line-height: 3.0em; 
+	font-weight: 600;  
 	color: #000; 
 }
 ol li {
-	line-height: 2.0;
+	line-height: 3.0em;
 }
 ul {
 	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
@@ -54,7 +53,7 @@ ul {
 	color: #000; 
 }
 ul li {
-	line-height: 3.0;
+	line-height: 3.0em;
 }
 ul a{
 	text-decoration: none;
