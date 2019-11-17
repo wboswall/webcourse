@@ -59,13 +59,12 @@ ul {
 	font-style: normal; 
 	font-variant: normal; 
 	font-weight: 600; 
-	line-height: 2.0em; 
 	color: #000; 
 	padding-top:20px;
 	padding-bottom:20px;
 }
 ul li {
-	line-height: 2.0em;
+	line-height: 1.0em;
 }
 ul a{
 	text-decoration: none;
