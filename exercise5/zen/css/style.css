@@ -1,0 +1,45 @@
+body {
+	
+}
+header image {
+	
+}
+h1 {
+	font-size: 38px;
+	padding: 20px;
+}
+
+h2 {
+	padding: 20px;
+	font-size: 28px;
+}
+nav {
+	padding: 20px;
+	font-size: 26px;
+	text-decoration: none;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 20px;
+}
+li {
+	display: inline;
+	padding: 20px;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;
+}
+p {
+	padding: 20px;
+	font-size: 18px;
+}
