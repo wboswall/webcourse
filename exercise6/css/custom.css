@@ -40,12 +40,12 @@ a:visited {
   color: #fefafa;
 }
 a:hover {
-  background-color: #f0ccc1;
+  background-color: #ecd6d0;
   /* text-decoration:underline; */
   padding:5px;
 }
 a:active {
-  color: #f0ccc1;
+  color: #6ae141;
 }
 aside {
 	display:inline-block;
